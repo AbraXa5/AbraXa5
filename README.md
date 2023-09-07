@@ -1,8 +1,8 @@
-### Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&width=520&lines=Hi+there%2C+I+am+Abraxas+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Follow Me](https://img.shields.io/github/followers/AbraXa5?label=Follow&style=social)](https://github.com/AbraXa5)
 
 <!--
-**AbraXa5/AbraXa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📝 I regularly write articles on [abraxas.pages.dev](https://abraxas.pages.dev/)
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<p><a href="https://www.buymeacoffee.com/abr4xa5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Abraxas" /></a></p><br><br
