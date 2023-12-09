@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## 📝 I regularly write articles on [abraxas.pages.dev](https://abraxas.pages.dev/)
 
 <!-- BLOG-POST-LIST:START -->
-- `2023-11-27` | [HTB Download](https://6ee7b0d2.abraxas.pages.dev/blog/htb-download/)  
-- `2023-11-26` | [HTB Sandworm](https://6ee7b0d2.abraxas.pages.dev/blog/htb-sandworm/)  
-- `2023-11-26` | [HTB Pilgrimage](https://6ee7b0d2.abraxas.pages.dev/blog/htb-pilgrimage/)  
-- `2023-11-04` | [HTB Topology](https://6ee7b0d2.abraxas.pages.dev/blog/htb-topology/)  
-- `2023-10-28` | [Htb Gofer](https://6ee7b0d2.abraxas.pages.dev/blog/htb-gofer/)  
+- `2023-11-27` | [HTB Download](https://1fc38cad.abraxas.pages.dev/blog/htb-download/)  
+- `2023-11-26` | [HTB Sandworm](https://1fc38cad.abraxas.pages.dev/blog/htb-sandworm/)  
+- `2023-11-26` | [HTB Pilgrimage](https://1fc38cad.abraxas.pages.dev/blog/htb-pilgrimage/)  
+- `2023-11-04` | [HTB Topology](https://1fc38cad.abraxas.pages.dev/blog/htb-topology/)  
+- `2023-10-28` | [Htb Gofer](https://1fc38cad.abraxas.pages.dev/blog/htb-gofer/)  
 
 <!-- BLOG-POST-LIST:END -->
 
