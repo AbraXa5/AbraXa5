@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## 📝 I regularly write articles on [abraxas.pages.dev](https://abraxas.pages.dev/)
 
 <!-- BLOG-POST-LIST:START -->
-- `2024-01-13` | [HTB Zipping](https://de5c5255.abraxas.pages.dev/blog/htb-zipping/)  
-- `2024-01-10` | [HTB Sau](https://de5c5255.abraxas.pages.dev/blog/htb-sau/)  
-- `2023-12-16` | [HTB Coder](https://de5c5255.abraxas.pages.dev/blog/htb-coder/)  
-- `2023-12-09` | [HTB Authority](https://de5c5255.abraxas.pages.dev/blog/htb-authority/)  
-- `2023-11-27` | [HTB Download](https://de5c5255.abraxas.pages.dev/blog/htb-download/)  
+- `2024-01-13` | [HTB Zipping](https://77962c0d.abraxas.pages.dev/blog/htb-zipping/)  
+- `2024-01-10` | [HTB Sau](https://77962c0d.abraxas.pages.dev/blog/htb-sau/)  
+- `2023-12-16` | [HTB Coder](https://77962c0d.abraxas.pages.dev/blog/htb-coder/)  
+- `2023-12-09` | [HTB Authority](https://77962c0d.abraxas.pages.dev/blog/htb-authority/)  
+- `2023-11-27` | [HTB Download](https://77962c0d.abraxas.pages.dev/blog/htb-download/)  
 
 <!-- BLOG-POST-LIST:END -->
 
