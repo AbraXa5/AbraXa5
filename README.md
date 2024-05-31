@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## 📝 I regularly write articles on [abraxas.pages.dev](https://abraxas.pages.dev/)
 
 <!-- BLOG-POST-LIST:START -->
-- `2024-02-04` | [Jenkins CVE-2024-23897](https://c7fb17d8.abraxas.pages.dev/blog/cve-2024-23897/)  
-- `2024-01-13` | [HTB Zipping](https://c7fb17d8.abraxas.pages.dev/blog/htb-zipping/)  
-- `2024-01-10` | [HTB Sau](https://c7fb17d8.abraxas.pages.dev/blog/htb-sau/)  
-- `2023-12-16` | [HTB Coder](https://c7fb17d8.abraxas.pages.dev/blog/htb-coder/)  
-- `2023-12-09` | [HTB Authority](https://c7fb17d8.abraxas.pages.dev/blog/htb-authority/)  
+- `2024-02-04` | [Jenkins CVE-2024-23897](https://79f8ac19.abraxas.pages.dev/blog/cve-2024-23897/)  
+- `2024-01-13` | [HTB Zipping](https://79f8ac19.abraxas.pages.dev/blog/htb-zipping/)  
+- `2024-01-10` | [HTB Sau](https://79f8ac19.abraxas.pages.dev/blog/htb-sau/)  
+- `2023-12-16` | [HTB Coder](https://79f8ac19.abraxas.pages.dev/blog/htb-coder/)  
+- `2023-12-09` | [HTB Authority](https://79f8ac19.abraxas.pages.dev/blog/htb-authority/)  
 
 <!-- BLOG-POST-LIST:END -->
 
