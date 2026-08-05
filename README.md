@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+<!--
 <p><a href="https://www.buymeacoffee.com/abr4xa5"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Abraxas" /></a></p><br><br
+-->
